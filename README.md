@@ -1,24 +1,35 @@
-# cliff
+# 你好，我是 cliff / Hi, I’m cliff
 
-你好，我是 cliff（`yuanyuanyuan430`）。
+我专注于 Codex、AI Agent 工具、自动化工作流和证据驱动的产品交付。
 
-我关注 AI agent、Codex 工作流、自动化工具和真实交付之间的连接：把复杂任务拆成可执行步骤，用代码、界面状态和验证结果确认它确实完成。
+I focus on Codex, AI agent tooling, automation workflows, and evidence-led product delivery.
 
-## 我在做什么
+## 我在做什么 / What I work on
 
 - 设计和维护 Codex Skills、Agent 指令与渐进式上下文
+- Design and maintain Codex Skills, agent instructions, and progressive context
 - 构建本地自动化、工具连接和多 Agent 协作流程
-- 研究 AI 产品、开发者工具与实际工作流的结合方式
-- 用可复核的代码、文档、截图和运行结果交付成果
+- Build local automation, tool integrations, and multi-agent workflows
+- 研究 AI 产品、开发者工具与真实工作流的结合方式
+- Explore how AI products and developer tools can work in real workflows
+- 用代码、文档、界面状态和验证结果交付可复核成果
+- Ship reproducible outcomes with code, documentation, UI state, and verification evidence
 
-## 最近的开源项目
+## 我的工作原则 / How I work
 
-- [codex-instruction-auditor](https://github.com/yuanyuanyuan430/codex-instruction-auditor)：审计并精简 Codex 的 `AGENTS.md`、Skills、提示词和失效链接
+我会把“看起来完成了”和“确实完成了”区分开：先确认现状和范围，再做最小必要修改，最后检查实际运行状态。
 
-## 工作方式
+I distinguish “looks complete” from “is verified”: inspect the current state and scope first, make the smallest necessary change, then validate the real result.
 
-我偏好小步、可恢复、可验证的改动：先确认范围，再保留必要约束；完成后检查实际运行状态，而不是只看文件是否写入成功。
+## 代表项目 / Featured project
 
-## 联系与协作
+- [codex-instruction-auditor](https://github.com/yuanyuanyuan430/codex-instruction-auditor)：基于 OpenAI Developers 官方文章《Rethinking skills and prompts for GPT-6 Astra》的个人实现，用于审计和整理 Codex 的 `AGENTS.md`、Skills、Prompt 和失效链接。
+- [codex-instruction-auditor](https://github.com/yuanyuanyuan430/codex-instruction-auditor): a personal implementation inspired by OpenAI Developers’ [Rethinking skills and prompts for GPT-6 Astra](https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra), for auditing Codex `AGENTS.md`, Skills, prompts, and broken links.
 
-如果你也在做 Codex Skills、AI agent 工具链或自动化工作流，欢迎通过 GitHub Issues 或 Discussions 交流。
+## 关注领域 / Interests
+
+Codex · AI Agents · Prompt Engineering · Developer Tools · Automation · Evidence-led Delivery
+
+欢迎通过 GitHub Issues 或 Discussions 交流 Codex Skills、AI Agent 工具链和个人开发环境建设。
+
+Feel free to open an issue or discussion about Codex Skills, AI agent tooling, and personal developer environments.
