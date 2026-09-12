@@ -21,6 +21,10 @@ I focus on Codex, AI agent tooling, automation workflows, and evidence-led produ
 
 I distinguish “looks complete” from “is verified”: inspect the current state and scope first, make the smallest necessary change, then validate the real result.
 
+我也在尝试把技术说明写得更容易被采用：先用具体问题建立钩子，再用事实完成反转，用可复核结果形成高潮，最后给读者一个可以立即执行的小步骤。这个表达层服务于真实证据，不替代测试，也不夸大项目能力。
+
+I also write technical docs for adoption: start with a concrete problem, use facts for the reversal, make the verifiable result the payoff, and end with a small action the reader can take immediately. This editorial layer supports evidence; it does not replace testing or inflate project claims.
+
 ## 代表项目 / Featured project
 
 - [codex-instruction-auditor](https://github.com/yuanyuanyuan430/codex-instruction-auditor)：基于 OpenAI Developers 官方文章《Rethinking skills and prompts for GPT-6 Astra》的个人实现，用于审计和整理 Codex 的 `AGENTS.md`、Skills、Prompt 和失效链接。
